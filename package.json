@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs": "^2.5.0",
+    "pdfjs-dist": "^3.8.162",
+    "pdfkit": "^0.13.0"
+  },
+  "name": "pdf_index_reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
